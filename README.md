@@ -1,0 +1,2 @@
+# checkpoints
+checkpoints for Dyngecoin
